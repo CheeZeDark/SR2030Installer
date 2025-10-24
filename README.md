@@ -1,2 +1,2 @@
 # SR2030Installer
-SR2030Installer by CheeZeDark(Rikko Matsumato)
+This Installer is Deprecated due to my new [Installer with Cracked Actually version](https://github.com/CheeZeDark/SR2030Installer-Cracked)
